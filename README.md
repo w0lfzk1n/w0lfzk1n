@@ -1,5 +1,9 @@
 # I am w0lFzk1nD - *duh*
-![Coding GIF](https://media.giphy.com/media/122teRA3vWUZ9u/giphy.gif)
+
+<p align="center">
+    <img src="https://media.giphy.com/media/YJzwILPZV6TK0/giphy.gif" alt="Awu">
+</p>
+
 *I'll bite everyone who starts calling me a furry! I AM NOT, I just love wolves :D*
 
 Hey there! 👋 I'm a 23-year-old who's utterly fascinated by coding. The countless nights I've spent programming can vouch for that. 
@@ -26,9 +30,12 @@ Hey there! 👋 I'm a 23-year-old who's utterly fascinated by coding. The countl
 ## Get in Touch
 Feel like having a chat or discussing some cool project? Hit me up on Discord: `w0lfzk1nd`.
 
-![Awu?](https://media.giphy.com/media/YJzwILPZV6TK0/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/122teRA3vWUZ9u/giphy.gif)
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
+> 
 > "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+> 
 > "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."
+> 
 > "There are 10 types of people in the world: those who understand binary, and those who don't."
