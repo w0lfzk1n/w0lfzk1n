@@ -7,10 +7,9 @@ Hey there! 👋 I'm a 23-year-old who's utterly fascinated by coding. The countl
 ## Technologies & Tools 🔧
 - **Languages**: Python, JavaScript, Java, Bash, Powershell and dabbling with VBA and other sh*t.
 - **Interests**: Writing Code in general, 🛡️ Offensive cybersecurity 🛡️, and more.
-- **Projects**: While I've dabbled in numerous projects, some of the notable ones include "EzPizMenu" and "instacrab" which you can find in my repos.
+- **Projects**: I got my fingers in a lot projects, just check my Repo.
 - **Ookami**: My messenger chatbot project that has been a game-changer for me. With around 13,000 users, it was my rocket launch into the IT world.
 - **AI**: No, I'm not talking about ChatGPT. I'm talking about transforming your dusty home computer into a nuclear reactor just to get a low-quality picture or a text filled with repetitive sentences.
-    - *SSoon, I'll upgrade to proper hardware and leave behind the days of my dusty backyard computer threatening to turn into a bonfire.*
 - **Raspberry Pi**:
     - **MamaPi:** My go-to Raspberry Pi that acts as a NAS for me, complete with a media server and PiHole. Essentially, it's where everything goes in and out *y-y*
     - **PapaPi:** My experimental Raspberry Pi. Sometimes it's running Kali Linux to test MamaPi's security *(you know, the weird things adults do when they feel fancy)*, and other times it's my guinea pig for hardware tests. Speaking of hardware tests, I've used it with a kit full of modules to build things like a mobile object detection computer.
