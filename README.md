@@ -15,8 +15,8 @@ Hey there! 👋 I'm a 23-year-old who's utterly fascinated by coding. The countl
 - **Ookami**: My messenger chatbot project that has been a game-changer for me. With around 13,000 users, it was my rocket launch into the IT world.
 - **AI**: No, I'm not talking about ChatGPT. I'm talking about transforming your dusty home computer into a nuclear reactor just to get a low-quality picture or a text filled with repetitive sentences.
 - **Raspberry Pi**:
-    - **MamaPi:** My go-to Raspberry Pi that acts as a NAS for me, complete with a media server and PiHole. Essentially, it's where everything goes in and out *y-y*
-    - **PapaPi:** My experimental Raspberry Pi. Sometimes it's running Kali Linux to test MamaPi's security *(you know, the weird things adults do when they feel fancy)*, and other times it's my guinea pig for hardware tests. Speaking of hardware tests, I've used it with a kit full of modules to build things like a mobile object detection computer.
+    - **MamaPi:** My go-to Raspberry Pi that acts as a NAS and more for me.
+    - **PapaPi:** My experimental Raspberry Pi. Sometimes it's running Kali Linux to test MamaPi's security *(you know, the weird things adults do when they feel fancy)*, and other times it's my guinea pig for hardware tests using my module kit.
 
 ![burn](https://media.giphy.com/media/BuReg1EyvWaac/giphy.gif)
 
