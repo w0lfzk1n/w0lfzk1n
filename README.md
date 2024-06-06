@@ -6,7 +6,7 @@
 
 *I'll bite everyone who starts calling me a furry! I AM NOT, I just love wolves :D*
 
-Hey there! 👋 I'm a 23-year-old who's utterly fascinated by coding. The countless nights I've spent programming can vouch for that. 
+Hey there! 👋 I'm a 24-year-old who's utterly fascinated by coding. The countless nights I've spent programming can vouch for that. 
 
 ## Technologies & Tools 🔧
 - **Languages**: Python, JavaScript, Java, Bash, Powershell and dabbling with VBA and other sh*t.
